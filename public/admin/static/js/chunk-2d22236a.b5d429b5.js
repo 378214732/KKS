@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 12:34:34
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22236a"],{ce3e:function(e,a,n){"use strict";n.r(a);var t=function(){var e=this,a=e._self._c;return a("div",[a("el-tabs",{model:{value:e.activeTab,callback:function(a){e.activeTab=a},expression:"activeTab"}},e._l(e.bodyTypeEnum,(function(e,n){return a("el-tab-pane",{key:n,attrs:{name:e.tab_name,label:e.label}})})),1),a("keep-alive",[a(e.activeTab,{tag:"component"})],1)],1)},c=[],o=n("6eef"),b={name:"",components:{"none-tab":()=>n.e("chunk-2d225063").then(n.bind(null,"e343")),"urlencoded-tab":()=>n.e("chunk-42da09fc").then(n.bind(null,"6152")),"raw-tab":()=>n.e("chunk-2d0e4bd0").then(n.bind(null,"9201"))},data(){return{}},computed:{...Object(o["c"])({formData:"interface/formData",bodyTypeEnum:"interface/bodyTypeEnum"}),activeTab:{get(){const e=this.formData.body_type,a=this.bodyTypeEnum.find(a=>a.value==e);return a?a.tab_name:"urlencoded-tab"},set(e){const a=this.bodyTypeEnum.find(a=>a.tab_name==e);a&&(this.formData.body_type=a.value)}}},created(){},mounted(){},methods:{}},d=b,u=n("9d41"),l=Object(u["a"])(d,t,c,!1,null,"89ca6544",null);a["default"]=l.exports}}]);

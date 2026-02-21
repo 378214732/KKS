@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_announcement</title>
+    <defs>
+        <linearGradient x1="35.1146093%" y1="0%" x2="69.6847927%" y2="90.2257052%" id="linearGradient-1">
+            <stop stop-color="#FE9573" offset="0%"></stop>
+            <stop stop-color="#FD6A3A" offset="30.7164373%"></stop>
+            <stop stop-color="#FD6D3E" offset="72.399325%"></stop>
+            <stop stop-color="#FE9B7B" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="44" cy="44" r="44"></circle>
+        <filter x="-17.0%" y="-10.2%" width="134.1%" height="134.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.992156863   0 0 0 0 0.419607843   0 0 0 0 0.231372549  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFEFE" offset="0%"></stop>
+            <stop stop-color="#FFDCCA" offset="100%"></stop>
+        </linearGradient>
+        <path d="M44.0095246,69 C47.4222931,69 50.1894391,66.2007438 50.1894391,62.7477378 L37.8293727,62.7477378 C37.8293727,66.2007438 40.5900284,69 44.0095246,69 M62.5432526,55.2461123 C62.9862524,55.2332999 63.4296479,55.3230664 63.8538101,55.6049379 C62.3150646,54.6054952 61.3021883,52.8628567 61.3021883,50.8706979 L61.3021883,39.7559121 C61.3021883,31.6137496 55.482879,24.8168828 47.7073105,23.1448723 L47.7073105,22.7476097 C47.7073105,20.6718503 46.0482576,19 44.0030343,19 C41.9578902,19 40.2988374,20.6784967 40.2988374,22.7476097 L40.2988374,23.1448723 C32.5232688,24.8168828 26.7042761,31.6073434 26.7042761,39.7559121 L26.7042761,50.8706979 C26.7042761,52.8628567 25.6849096,54.6054952 24.1523377,55.6049379 C24.5829902,55.3230664 25.0198954,55.2267336 25.4632118,55.2461123 C24.1019195,55.2523583 23,56.3606258 23,57.7444386 C23,59.1283316 24.1019195,60.2428451 25.4693855,60.2428451 L62.5305095,60.2428451 C63.8980547,60.2428451 65,59.1283316 65,57.7444386 C65.0061478,56.3734381 63.904545,55.2523583 62.5432526,55.2461123" id="path-5"></path>
+        <filter x="-26.2%" y="-14.0%" width="152.4%" height="144.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.956862745   0 0 0 0 0.392156863   0 0 0 0 0.22745098  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息" transform="translate(-21.000000, -210.000000)">
+            <g id="系统公告" transform="translate(29.000000, 208.000000)">
+                <g id="编组-2" transform="translate(-8.000000, 2.000000)">
+                    <g id="icon_announcement" transform="translate(8.000000, 2.000000)">
+                        <g id="椭圆形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Fill-1">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_fenlei</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE8A55" offset="0%"></stop>
+            <stop stop-color="#FF514B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tabbar备份-3" transform="translate(-71.000000, -354.000000)">
+            <g id="tabbar备份" transform="translate(-1.000000, 330.000000)">
+                <g id="首页" transform="translate(72.000000, 24.000000)">
+                    <g id="icon_fenlei" transform="translate(5.000000, 3.000000)">
+                        <path d="M1.6,10.8 L13.6,1.8 C15.0222222,0.733333333 16.9777778,0.733333333 18.4,1.8 L30.4,10.8 C31.4072234,11.5554175 32,12.7409708 32,14 L32,30 C32,32.209139 30.209139,34 28,34 L4,34 C1.790861,34 2.705415e-16,32.209139 0,30 L0,14 C-1.48645424e-15,12.7409708 0.592776629,11.5554175 1.6,10.8 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                        <path d="M9,23 C11,25 13.3333333,26 16,26 C18.6666667,26 21,25 23,23" id="路径-20" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

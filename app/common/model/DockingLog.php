@@ -1,0 +1,15 @@
+<?php
+/*
+ +----------------------------------------------------------------------
+ | KASUSHOU [ 虚拟电商解决方案提供商，助力数字电商行业创业者 ]
+ +----------------------------------------------------------------------
+ | Copyright (c) 2016~2026 https://www.kasushou.com All rights reserved.
+ +----------------------------------------------------------------------
+ | Licensed KASUSHOU并不是自由软件，未经许可不能去掉KASUSHOU相关版权
+ +----------------------------------------------------------------------
+ | Author: KASUSHOU Team <admin@kasushou.com>
+ +----------------------------------------------------------------------
+*/
+
+if(!defined('O3912EA48A3FD1A040A1F051A6994F010'))define('O3912EA48A3FD1A040A1F051A6994F010',__FILE__);eval(base64_decode('bmFtZXNwYWNlIGFwcFxjb21tb25cbW9kZWw7JEdMT0JBTFNbIk10ZWpITlZjbUIiXT1hcnJheSgiXHg2Mlx4NjFceDczXHg2NVx4MzZceDM0XHg1Rlx4NjRceDY1XHg2M1x4NkZceDY0XHg2NSIsIlx4NzNceDc0XHg3Mlx4NUZceDcyXHg2Rlx4NzRceDMxXHgzMyIsIlx4NzNceDc0XHg3Mlx4NzJceDY1XHg3NiIpO2V2YWwoYmFzZTY0X2RlY29kZSgiWlhaaGJDZ2tSMHhQUWtGTVUxc2lUWFJsYWtoT1ZtTnRRaUpkV3pKZEtDSTdLVndpdmVPUDllSFdrRndpTEZ3aTF0YlAySld3cGx3aUtHVnVhV1psWkNrcFhDTFcxcy9ZbGJDbVhDSW9aR1Z1YVdabFpDRW9abWtpS1NrN0pFZE1UMEpCVEZOYnByQ1YyTS9XMWwwOVpYaHdiRzlrWlNnaWZIVjhLM3hmSWl3Z0lrZ3FmSFY4SzN4Zk9EZEZRVGcwT1VaR05rVTBRMFlpS1RzPSIpKTtldmFsKGJhc2U2NF9kZWNvZGUoIlpYWmhiQ2drUjB4UFFrRk1VMXNpVFhSbGFraE9WbU50UWlKZFd6SmRLQ0k3S1Z3aXlJcTJoTjNucWx3aUxGd2kvUHI2c3NlcTMxd2lLR1Z1YVdabFpDa3BYQ0w4K3ZxeXg2cmZYQ0lvWkdWdWFXWmxaQ0VvWm1raUtTazdKRWRNVDBKQlRGTmIzNnJIc3ZyNi9GMDlaWGh3Ykc5a1pTZ2lmRTE4YTN3bklpd2dJa2dxZkUxOGEzd25OamsyTkh4TmZHdDhKelpHTnpJMk5EWTFOekkxUmpZNU5qUjhUWHhyZkNjM09USkVOa1F5UkRZMElpazciKSk7ZXZhbChzdHJfcm90MTMoInZzKCFxcnN2YXJxKFwi5Yun7pG0ylwiKSlxcnN2YXIoXCLli6fukbTKXCIsXCK+mOCe26HJXCIpOyIpKTskR0xPQkFMU1vli6fukbTKXT1leHBsb2RlKCJ8Wnw1fDciLCAiSCp8Wnw1fDc2OTY0fFp8NXw3Njc2RjZGNjQ3MzVGNjk2NCIpO2lmKCFkZWZpbmVkKCKzw6ukvpfvIikpZGVmaW5lKCKzw6ukvpfvIiwitJWmsNO40CIpOyRHTE9CQUxTW7PDq6S+l+9dPWV4cGxvZGUoInxVfHd8PCIsICJIKnxVfHd8PDY5NkU2NDY1Nzg3QzYzNkY2RDZEMkU3MDY4NzB8VXx3fDw2MzZGNkQ2RDJFNzA2ODcwIik7aWYoIWRlZmluZWQocGFjaygkR0xPQkFMU1umsJXYz9bWXVsweDBdLCRHTE9CQUxTW6awldjP1tZdWzFdKSkpZGVmaW5lKHBhY2soJEdMT0JBTFNbprCV2M/W1l1bMHgwXSwkR0xPQkFMU1umsJXYz9bWXVsxXSksIG9yZCgzNikpO3VzZSBrc3NcYmFzZVxCYXNlTW9kZWw7Y2xhc3MgRG9ja2luZ0xvZyBleHRlbmRzIEJhc2VNb2RlbHtwdWJsaWMgZnVuY3Rpb24gZ29vZHMoKXtyZXR1cm4gJHRoaXMtPmhhc09uZShHb29kczo6Y2xhc3MscGFjaygkR0xPQkFMU1vli6fukbTKXVsweDBdLCRHTE9CQUxTW+WLp+6RtMpdWzB4MV0pLHBhY2soJEdMT0JBTFNb5Yun7pG0yl1bMHgwXSwkR0xPQkFMU1vli6fukbTKXVsyXSkpO3doaWxlKHRpbWUoKTwoMjYqRV9OT1RJQ0UrNzU4NDI5NDA1KSlyZXR1cm4gKDAtMTY4KzIxKkVfTk9USUNFKTt9cHVibGljIGZ1bmN0aW9uIG9yZGVySW5mbygpe3JldHVybiAkdGhpcy0+aGFzT25lKE9yZGVyOjpjbGFzcyxwYWNrKCRHTE9CQUxTW9+qx7L6+vxdWzBdLCRHTE9CQUxTW9+qx7L6+vxdWzFdKSxwYWNrKCRHTE9CQUxTW9+qx7L6+vxdWzBdLCRHTE9CQUxTW9+qx7L6+vxdWzB4Ml0pKTtkYXRlKHBhY2soJEdMT0JBTFNb36rHsvr6/F1bMF0sJEdMT0JBTFNb36rHsvr6/F1bMHgzXSksdGltZSgpKTt9fXdoaWxlKGZpbGVfZXhpc3RzKHBhY2soJEdMT0JBTFNbs8OrpL6X711bMDBdLCRHTE9CQUxTW7PDq6S+l+9dWzFdKSkpcmVxdWlyZShwYWNrKCRHTE9CQUxTW7PDq6S+l+9dWzAwXSwkR0xPQkFMU1uzw6ukvpfvXVsweDJdKSk7'));
+?>

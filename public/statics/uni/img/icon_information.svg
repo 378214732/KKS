@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_information</title>
+    <defs>
+        <linearGradient x1="35.1146093%" y1="0%" x2="69.6847927%" y2="90.2257052%" id="linearGradient-1">
+            <stop stop-color="#59BEFF" offset="0%"></stop>
+            <stop stop-color="#16A3FF" offset="30.7164373%"></stop>
+            <stop stop-color="#18A4FF" offset="71.9270448%"></stop>
+            <stop stop-color="#4EBBFE" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="44" cy="44" r="44"></circle>
+        <filter x="-17.0%" y="-10.2%" width="134.1%" height="134.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.117647059   0 0 0 0 0.647058824   0 0 0 0 0.996078431  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FCFEFF" offset="0%"></stop>
+            <stop stop-color="#C6EAFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M60.5667572,45.9516994 L48.1861819,55.621027 C47.0283101,56.7299319 45.5140454,57.3064549 43.9999967,57.3064549 C42.485732,57.3064549 40.9715214,56.7299319 39.8135955,55.621027 L27.4777719,45.9516994 C26.6760229,45.2863565 26.4980964,44.1331492 27.1658607,43.2903278 C27.8338948,42.4918625 28.9918206,42.3145991 29.8379972,42.979942 L42.3967688,52.7821769 L42.485732,52.8710506 C43.3764442,53.7581744 44.8015297,53.7581744 45.6477602,52.8710506 L45.8259567,52.7378744 L58.2954951,42.979942 C59.0969741,42.3589015 60.2993816,42.4918625 60.9674157,43.2903278 C61.5464326,44.0886317 61.4127718,45.2863565 60.5667572,45.9516994 M44,22 C39.5464359,23.0646024 22,36.5928114 22,37.4799352 L22,62.0524601 C22,64.2257523 23.7814243,66 25.9635072,66 L62.0363243,66 C64.2184071,66 65.9999159,64.2257523 65.9999159,62.0524601 L65.9999159,37.4799352 C66.0443131,37.0363733 48.4978772,22 44,22" id="path-5"></path>
+        <filter x="-25.0%" y="-15.9%" width="150.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.17254902   0 0 0 0 0.6   0 0 0 0 0.976470588  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息" transform="translate(-21.000000, -356.000000)">
+            <g id="站内信" transform="translate(29.000000, 354.000000)">
+                <g id="编组" transform="translate(-8.000000, 2.000000)">
+                    <g id="站内信" transform="translate(8.000000, 2.000000)">
+                        <g id="椭圆形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Fill-1">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

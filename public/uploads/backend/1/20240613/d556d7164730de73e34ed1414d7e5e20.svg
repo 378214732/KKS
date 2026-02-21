@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_xiaoxi</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE8553" offset="0%"></stop>
+            <stop stop-color="#FF524B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tabbar备份-3" transform="translate(-445.000000, -353.000000)">
+            <g id="tabbar备份" transform="translate(-1.000000, 330.000000)">
+                <g id="消息" transform="translate(446.000000, 23.000000)">
+                    <g id="icon_xiaoxi" transform="translate(2.960341, 4.020258)">
+                        <path d="M18.0396592,29.7123798 C28.6512234,29.7123798 36.0793184,23.061037 36.0793184,14.8561899 C36.0793184,6.65134278 28.0026878,0 18.0396592,0 C8.07663052,0 0,6.65134278 0,14.8561899 C0,19.986692 3.15797701,24.5097711 7.96045664,27.1790365 C9.21911193,27.8786095 8.09308221,33.5345407 9.5504078,33.9570055 C11.4251057,34.5004626 15.9392835,29.7123798 18.0396592,29.7123798 Z" id="椭圆形" fill="url(#linearGradient-1)"></path>
+                        <path d="M8.48925138,15.9173463 C9.196689,19.4545344 11.6727206,21.2231285 15.9173463,21.2231285" id="路径-24" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

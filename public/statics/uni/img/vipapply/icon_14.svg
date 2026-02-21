@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_mijia</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="开通分销" transform="translate(-240.000000, -1160.000000)">
+            <g id="2备份-2" transform="translate(39.000000, 1160.000000)">
+                <g id="专属社区平台备份" transform="translate(180.000000, 0.000000)">
+                    <g id="icon_mijia" transform="translate(21.000000, 0.000000)">
+                        <circle id="椭圆形备份-6" fill="#FFF4EE" cx="45" cy="45" r="45"></circle>
+                        <g id="编组-10" transform="translate(30.000000, 27.000000)">
+                            <circle id="椭圆形" stroke="#FF6F26" stroke-width="2" cx="10" cy="16" r="2"></circle>
+                            <circle id="椭圆形备份-5" stroke="#FF6F26" stroke-width="2" cx="20" cy="26" r="2"></circle>
+                            <rect id="矩形" fill="#FF6F26" transform="translate(14.500000, 22.000000) rotate(35.000000) translate(-14.500000, -22.000000) " x="13" y="14" width="3" height="16" rx="1.5"></rect>
+                            <path d="M15,2.0482429 C15.2781735,2.0482429 15.5563469,2.12549845 15.8009895,2.28000955 L15.8009895,2.28000955 L27.8009895,9.85895692 C28.2361369,10.1337869 28.5,10.6125206 28.5,11.1271903 L28.5,11.1271903 L28.5,33 C28.5,33.4142136 28.3321068,33.7892136 28.0606602,34.0606602 C27.7892136,34.3321068 27.4142136,34.5 27,34.5 L27,34.5 L3,34.5 C2.58578644,34.5 2.21078644,34.3321068 1.93933983,34.0606602 C1.66789322,33.7892136 1.5,33.4142136 1.5,33 L1.5,33 L1.5,11.1271903 C1.5,10.6125206 1.76386305,10.1337869 2.19901051,9.85895692 L2.19901051,9.85895692 L14.1990105,2.28000955 C14.4436531,2.12549845 14.7218265,2.0482429 15,2.0482429 Z" id="矩形" stroke="#303133" stroke-width="3"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

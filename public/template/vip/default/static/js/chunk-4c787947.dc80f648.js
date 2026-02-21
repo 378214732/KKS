@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 23:38:05
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-4c787947"],{8405:function(t,i,e){},9809:function(t,i,e){"use strict";e("8405")},a05a:function(t,i,e){"use strict";e.r(i);var s=function(){var t=this,i=t._self._c;return i("div",{staticClass:"money-box"},[i("div",{staticClass:"money-list"},t._l(t.list,(function(e,s){return i("div",{key:s,staticClass:"money-item",class:{on:s==t.activeIndex},on:{click:function(i){t.activeIndex=s}}},[t._v(" "+t._s(e.money)+" ")])})),0),i("div",{staticClass:"qrcode"},[t.img?i("el-image",{staticStyle:{width:"100px",height:"100px"},attrs:{"preview-src-list":[t.img],src:t.img}}):t._e()],1)])},n=[],c=e("ed08"),a={components:{},props:{list:{type:Array,default:()=>[]}},data(){return{activeIndex:-1}},computed:{img(){const t=this.list[this.activeIndex];return t?Object(c["img"])(t.img):""}},watch:{},mounted(){this.list.length>0&&(this.activeIndex=0)},methods:{}},o=a,l=(e("9809"),e("9d41")),r=Object(l["a"])(o,s,n,!1,null,"5776b19c",null);i["default"]=r.exports}}]);

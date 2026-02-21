@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_information</title>
+    <defs>
+        <linearGradient x1="35.1146093%" y1="0%" x2="69.6847927%" y2="90.2257052%" id="linearGradient-1">
+            <stop stop-color="#59E2BD" offset="0.0443892045%"></stop>
+            <stop stop-color="#52DDB7" offset="30.8663748%"></stop>
+            <stop stop-color="#37CFA6" offset="71.9270448%"></stop>
+            <stop stop-color="#59E2BD" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="44" cy="44" r="44"></circle>
+        <filter x="-17.0%" y="-10.2%" width="134.1%" height="134.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.219607843   0 0 0 0 0.811764706   0 0 0 0 0.650980392  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EBFFFA" offset="0%"></stop>
+            <stop stop-color="#D7FFF4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M26,25 L38,25 C39.6568542,25 41,26.3431458 41,28 L41,34 C41,35.6568542 39.6568542,37 38,37 L26,37 C24.3431458,37 23,35.6568542 23,34 L23,28 C23,26.3431458 24.3431458,25 26,25 Z M47,55 L59,55 C60.6568542,55 62,56.3431458 62,58 L62,64 C62,65.6568542 60.6568542,67 59,67 L47,67 C45.3431458,67 44,65.6568542 44,64 L44,58 C44,56.3431458 45.3431458,55 47,55 Z M26,41 L38,41 C39.6568542,41 41,42.3431458 41,44 L41,64 C41,65.6568542 39.6568542,67 38,67 L26,67 C24.3431458,67 23,65.6568542 23,64 L23,44 C23,42.3431458 24.3431458,41 26,41 Z M47,25 L59,25 C60.6568542,25 62,26.3431458 62,28 L62,48 C62,49.6568542 60.6568542,51 59,51 L47,51 C45.3431458,51 44,49.6568542 44,48 L44,28 C44,26.3431458 45.3431458,25 47,25 Z" id="path-5"></path>
+        <filter x="-28.2%" y="-16.7%" width="156.4%" height="152.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.196078431   0 0 0 0 0.768627451   0 0 0 0 0.615686275  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息_改" transform="translate(-21.000000, -662.000000)">
+            <g id="站内信备份-2" transform="translate(21.000000, 662.000000)">
+                <g id="站内信" transform="translate(8.000000, 2.000000)">
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="形状结合">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

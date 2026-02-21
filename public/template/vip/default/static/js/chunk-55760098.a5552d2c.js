@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 23:38:05
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-55760098"],{1388:function(t,e,i){"use strict";i.r(e);var n=function(){var t=this,e=t._self._c;return e("div",{staticClass:"input-box"},[e("PicUploader",{attrs:{"initial-img-url":t.img(t.src),multiple:!1},on:{selected:t.getPic}}),e("el-radio-group",{attrs:{value:t.bgSize},on:{input:t.handelInput}},t._l(t.sizeList,(function(i,n){return e("el-radio-button",{key:n,attrs:{label:n}},[e("span",[t._v(t._s(i))])])})),1)],1)},a=[],u=i("f2da"),s=i("ed08"),c={components:{PicUploader:u["default"]},props:{src:{type:String,default:""},bgSize:{type:Number,default:0}},data(){return{sizeList:["正常","平铺","拉伸"]}},watch:{},compute:{},mounted(){},methods:{img:s["img2"],getPic(t){this.$emit("update:src",t)},handelInput(t){this.$emit("update:bgSize",t)}}},r=c,l=(i("c6fc"),i("9d41")),o=Object(l["a"])(r,n,a,!1,null,"8ee66ab4",null);e["default"]=o.exports},a19f:function(t,e,i){},c6fc:function(t,e,i){"use strict";i("a19f")}}]);

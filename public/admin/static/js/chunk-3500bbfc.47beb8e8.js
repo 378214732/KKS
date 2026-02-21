@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 12:34:34
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-3500bbfc"],{9448:function(e,t,i){"use strict";i.r(t);var a=function(){var e=this,t=e._self._c;return t("div",e._l(e.typeList,(function(i,a){return t("div",{key:a,staticClass:"goodType",class:{on:e.activeIndex===a},on:{click:function(t){return e.handelItemClick(a)}}},[t("div",{staticClass:"name"},[e._v(e._s(i.label))]),t("div",{staticClass:"title"},[e._v(e._s(i.label2))]),e.activeIndex===a?[t("div",{staticClass:"jiao"}),t("div",{staticClass:"el-icon-check"})]:e._e()],2)})),0)},s=[],n={components:{},props:{value:{type:[String,Number],default:0},disabled:{type:Boolean,default:!1}},data(){return{typeList:[{label:"满减券",label2:"(满N元减N元)",value:1},{label:"折扣券",label2:"(满N元打N折)",value:2}]}},computed:{activeIndex:{get(){return this.typeList.findIndex(e=>e.value==this.value)},set(e){const t=this.typeList[e];this.$emit("input",t.value)}}},watch:{},created(){},mounted(){},methods:{handelItemClick(e){if(this.activeIndex==e)return;this.activeIndex=e;let t=this.typeList[e];this.$emit("change",t.value)}}},l=n,c=(i("e74b"),i("9d41")),u=Object(c["a"])(l,a,s,!1,null,"30e4dfee",null);t["default"]=u.exports},a355:function(e,t,i){},e74b:function(e,t,i){"use strict";i("a355")}}]);

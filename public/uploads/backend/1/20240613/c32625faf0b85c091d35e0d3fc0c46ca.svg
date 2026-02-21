@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_home</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tabbar备份-3" transform="translate(-72.000000, -97.000000)" stroke-width="3">
+            <g id="tabbar" transform="translate(-1.000000, 73.000000)">
+                <g id="首页" transform="translate(73.000000, 24.000000)">
+                    <g id="icon_home" transform="translate(5.000000, 3.000000)">
+                        <path d="M16,2.5 C16.5277778,2.5 17.0555556,2.66666667 17.5,3 L17.5,3 L29.5,12 C30.1295146,12.472136 30.5,13.2131067 30.5,14 L30.5,14 L30.5,30 C30.5,30.6903559 30.220178,31.3153559 29.767767,31.767767 C29.3153559,32.220178 28.6903559,32.5 28,32.5 L28,32.5 L4,32.5 C3.30964406,32.5 2.68464406,32.220178 2.23223305,31.767767 C1.77982203,31.3153559 1.5,30.6903559 1.5,30 L1.5,30 L1.5,14 C1.5,13.2131067 1.87048539,12.472136 2.5,12 L2.5,12 L14.5,3 C14.9444444,2.66666667 15.4722222,2.5 16,2.5 Z" id="矩形" stroke="#191E2E"></path>
+                        <path d="M9,23 C11,25 13.3333333,26 16,26 C18.6666667,26 21,25 23,23" id="路径-20" stroke="#FF594D" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

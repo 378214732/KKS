@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 12:34:34
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21d7c6"],{d202:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e._self._c;return n("div",[n("el-card",{attrs:{shadow:"never"}},[n("el-tabs",{model:{value:e.currentView,callback:function(n){e.currentView=n},expression:"currentView"}},[n("el-tab-pane",{attrs:{label:"微信关注回复",name:"Config1"}}),n("el-tab-pane",{attrs:{label:"关键字回复",name:"Config2"}}),n("el-tab-pane",{attrs:{label:"无效关键字回复",name:"Config3"}})],1),n("keep-alive",[n(e.currentView,{tag:"component"})],1)],1)],1)},l=[],c={name:"Offiaccount",components:{Config1:()=>t.e("chunk-ce785d44").then(t.bind(null,"d983")),Config2:()=>t.e("chunk-ff368058").then(t.bind(null,"4014")),Config3:()=>t.e("chunk-1eba85e8").then(t.bind(null,"8978"))},data(){return{currentView:"Config1"}}},i=c,r=t("9d41"),u=Object(r["a"])(i,a,l,!1,null,"751f21be",null);n["default"]=u.exports}}]);

@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 12:34:34
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d210868"],{b7eb:function(e,t,r){"use strict";r.r(t);var a=function(){var e=this,t=e._self._c;return t("el-form",{ref:"form",attrs:{model:e.form,"label-width":"110px",rules:e.rules}},[t("el-form-item",{attrs:{label:"","label-width":"0"}},[t("el-divider",{attrs:{"content-position":"center"}},[e._v("接口自定义参数变量列表")])],1),t("el-form-item",{attrs:{label:"","label-width":"0"}},[t("custom-list",{attrs:{source:e.formData.base_params},on:{"update:source":function(t){return e.$set(e.formData,"base_params",t)}}})],1)],1)},l=[],s=r("6eef"),n={name:"",components:{"dynamic-list":()=>r.e("chunk-996ac634").then(r.bind(null,"f5f6")),"custom-list":()=>r.e("chunk-2e34ba7c").then(r.bind(null,"2f4c"))},data(){return{form:{value:!1,value2:"",list:[],text:"",obj:{symbol:1,value:""}},rules:{value2:[{required:!0,message:"请填写参与签名字段",trigger:"blur"}],obj:[{required:!0,message:"请填写参与签名字段",trigger:"blur"}]}}},computed:{...Object(s["c"])({formData:"interface/formData"})},created(){},mounted(){},methods:{}},o=n,u=r("9d41"),i=Object(u["a"])(o,a,l,!1,null,"81684a32",null);t["default"]=i.exports}}]);

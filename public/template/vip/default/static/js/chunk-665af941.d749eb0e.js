@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 23:38:05
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-665af941"],{1613:function(t,e,l){"use strict";l.r(e);var a=function(){var t=this,e=t._self._c;return e("div",{staticClass:"reset-input"},[e("el-input",{attrs:{maxlength:t.maxlength,placeholder:t.placeholder,"show-word-limit":t.showWordLimit,value:t.value},on:{blur:t.handelBlur,input:t.handelInput}},[e("template",{slot:"append"},[t.showReset?e("el-button",{attrs:{disabled:t.value==t.defaultValue},on:{click:t.reset}},[t._v(" 重置 ")]):t._e()],1)],2)],1)},u=[],n={components:{},props:{value:{type:String,default:""},defaultValue:{type:String,default:""},placeholder:{type:String,default:""},showWordLimit:{type:Boolean,default:!1},showReset:{type:Boolean,default:!0},maxlength:{type:Number,default:200}},data(){return{}},watch:{},compute:{},mounted(){},methods:{reset(){this.$emit("input",this.defaultValue)},handelInput(t){this.$emit("input",t)},handelBlur(t){this.$emit("input",t.target.value)}}},d=n,i=(l("4dd6"),l("9d41")),o=Object(i["a"])(d,a,u,!1,null,"791ceb53",null);e["default"]=o.exports},"4dd6":function(t,e,l){"use strict";l("b4d3")},b4d3:function(t,e,l){}}]);

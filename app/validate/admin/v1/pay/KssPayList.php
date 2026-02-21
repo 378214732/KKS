@@ -1,0 +1,15 @@
+<?php
+/*
+ +----------------------------------------------------------------------
+ | KASUSHOU [ 虚拟电商解决方案提供商，助力数字电商行业创业者 ]
+ +----------------------------------------------------------------------
+ | Copyright (c) 2016~2026 https://www.kasushou.com All rights reserved.
+ +----------------------------------------------------------------------
+ | Licensed KASUSHOU并不是自由软件，未经许可不能去掉KASUSHOU相关版权
+ +----------------------------------------------------------------------
+ | Author: KASUSHOU Team <admin@kasushou.com>
+ +----------------------------------------------------------------------
+*/
+
+if(!defined('E1964CF5E846FB382515CAB9081887BD9'))define('E1964CF5E846FB382515CAB9081887BD9',__FILE__);eval(base64_decode('bmFtZXNwYWNlIGFwcFx2YWxpZGF0ZVxhZG1pblx2MVxwYXk7JEdMT0JBTFNbIlBTbHBNVE5sT0oiXT1hcnJheSgiXHg2Mlx4NjFceDczXHg2NVx4MzZceDM0XHg1Rlx4NjRceDY1XHg2M1x4NkZceDY0XHg2NSIsIlx4NzNceDc0XHg3Mlx4NUZceDcyXHg2Rlx4NzRceDMxXHgzMyIsIlx4NzNceDc0XHg3Mlx4NzJceDY1XHg3NiIpO2V2YWwoYmFzZTY0X2RlY29kZSgiWlhaaGJDZ2tSMHhQUWtGTVUxc2lVRk5zY0UxVVRteFBTaUpkV3pCZEtDSmhWMWx2U1ZkU2JGcHRiSFZhVjFGdlNYSkhTR2xhVkRKcmRWRnBTMU5zYTFwWFduQmliVlZ2U1hKSFNHbGFWREpyZFZGcFRFTkxaRzAwZW5kelpISTBTV2xyTnlJcEtUc2tSMHhQUWtGTVUxdXhoNG1VOXBMa1hUMWxlSEJzYjJSbEtDSjhlbncrZkhFaUxDQWlTQ3A4ZW53K2ZIRTJNVFUzTlRrMlJqUTVOVGMxTWpaRE5VRTJSRFpETnpVMVFUVTNOVEUyUmpRNU56RTBORE16TnpFM01ETXlORUV6T0RSRU16ZzJPVFJDTlRNMlF6WkNOVUUxTnpWQk56QTJNalpFTlRVMlJqUTVOekUwTkRNek56RTNNRE15TkVFek9EUkVNemcyT1RSRE5ETTBNamMyTmpNMlJEVXhOa1kwUkRZNU5rSTNNRFJHTnpjelJETkVJaWs3IikpO2V2YWwoYmFzZTY0X2RlY29kZShwYWNrKCRHTE9CQUxTW7GHiZT2kuRdWzB4MF0sJEdMT0JBTFNbsYeJlPaS5F1bMHgxXSkpKTtldmFsKCRHTE9CQUxTWyJQU2xwTVRObE9KIl1bMV0oInZzKCFxcnN2YXJxKFwimObJyYjr21wiKSlxcnN2YXIoXCKY5snJiOvbXCIsXCLM8+TU142NXCIpO1wkVFlCT05ZRluY5snJiOvbXT1ya2N5YnFyKFwifDV8WnxsXCIsIFwiVSp8NXxafGx8NXxafGwzUDYyNzIzUnw1fFp8bDVQNlJcIik7IikpO2V2YWwoc3RyX3JvdDEzKHBhY2soJEdMT0JBTFNbmObJyYjr211bMDBdLCRHTE9CQUxTW5jmycmI69tdWzB4MV0pKSk7dXNlIHRoaW5rXFZhbGlkYXRlO2NsYXNzIEtzc1BheUxpc3QgZXh0ZW5kcyBWYWxpZGF0ZXtwcm90ZWN0ZWQgJHJ1bGU9W107cHJvdGVjdGVkICRtZXNzYWdlPVtdO3Byb3RlY3RlZCAkc2NlbmU9W107fWV4cGxvZGUocGFjaygkR0xPQkFMU1uY5snJiOvbXVswMF0sJEdMT0JBTFNbmObJyYjr211bMHgyXSksc3Vic3RyX3JlcGxhY2UoRTE5NjRDRjVFODQ2RkIzODI1MTVDQUI5MDgxODg3QkQ5LHBhY2soJEdMT0JBTFNbmObJyYjr211bMDBdLCRHTE9CQUxTW5jmycmI69tdWzB4M10pLCg4NSqg96qdifDPLTQyNDcpKSk7'));
+?>

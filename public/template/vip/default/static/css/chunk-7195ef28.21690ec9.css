@@ -1,0 +1,5 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 23:38:05
+ */[data-v-62b2bd24]:export{menu-color:hsla(0,0%,100%,.95);menu-color-active:hsla(0,0%,100%,.95);menu-background:#282c34;column-second-menu-background:#fff}.preview-box[data-v-62b2bd24]{display:flex;align-items:center;gap:5px}.icon-box[data-v-62b2bd24]{width:100%;display:grid;grid-template-columns:repeat(10,1fr);gap:10px}.icon-box .icon-item[data-v-62b2bd24]{width:100%;padding:5px;background:#eee;border-radius:8px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;-webkit-user-select:none;-moz-user-select:none;user-select:none;cursor:pointer;transition:all .3s;height:67px}.icon-box .icon-item>i[data-v-62b2bd24]{font-size:20px}.icon-box .active[data-v-62b2bd24]{background:#409eff;color:#fff}

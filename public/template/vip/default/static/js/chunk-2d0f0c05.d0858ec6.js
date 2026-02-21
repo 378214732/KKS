@@ -1,0 +1,6 @@
+/*!
+ *  build: kasushou v2 
+ *  copyright: kasushou.com xinmengnet 
+ *  time: 2026-2-6 23:38:05
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f0c05"],{"9e69":function(e,n,a){"use strict";a.r(n),a.d(n,"conf",(function(){return o})),a.d(n,"language",(function(){return i}));var t=a("aaf5"),o=("undefined"===typeof monaco?self.monaco:monaco,t["conf"]),i={defaultToken:"invalid",tokenPostfix:".js",keywords:["break","case","catch","class","continue","const","constructor","debugger","default","delete","do","else","export","extends","false","finally","for","from","function","get","if","import","in","instanceof","let","new","null","return","set","super","switch","symbol","this","throw","true","try","typeof","undefined","var","void","while","with","yield","async","await","of"],typeKeywords:[],operators:t["language"].operators,symbols:t["language"].symbols,escapes:t["language"].escapes,digits:t["language"].digits,octaldigits:t["language"].octaldigits,binarydigits:t["language"].binarydigits,hexdigits:t["language"].hexdigits,regexpctl:t["language"].regexpctl,regexpesc:t["language"].regexpesc,tokenizer:t["language"].tokenizer}}}]);
